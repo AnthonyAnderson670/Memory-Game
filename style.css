@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: aqua;
+}
+
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	height: 700px;
+	width: 700px;
+	align-content: center;
+}
